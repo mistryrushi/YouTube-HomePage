@@ -1,6 +1,6 @@
 # YouTube Homepage Clone
 
-This project is a **static clone of the YouTube homepage**, built using only **HTML** and **CSS**. It replicates the basic structure and styling of YouTube's home interface to practice front-end web development skills.
+This project is a **static clone of the YouTube.com (browser mode) homepage**, built using only **HTML** and **CSS**. It replicates the basic structure and styling of YouTube's home interface to practice front-end web development skills.
 
 ## 🔍 Features
 
