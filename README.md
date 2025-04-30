@@ -15,5 +15,6 @@ This project is a **static clone of the YouTube homepage**, built using only **H
 - HTML
 - CSS (Flexbox and Grid)
 
+https://imaginative-melomakarona-5907d7.netlify.app/
 
 
